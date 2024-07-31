@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi! If you are interested, check out my personal webpage to know about me: [zokalyx.github.io](https://zokalyx.github.io/).
 
-<!--
-**Zokalyx/Zokalyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+When it comes to coding, I'm really interested in:
+- Discord bots
+- Websites
+- Games
+- Operating systems
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As of writing this, my favorite languages are:
+- C
+- Python
+- Rust
+- Zig
+- Haskell
