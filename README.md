@@ -1,4 +1,4 @@
-Hi! If you are interested, check out my personal webpage to know about me: [zokalyx.github.io](https://zokalyx.github.io/).
+Hi! If you're interested, check out my personal webpage to know about me: [zokalyx.github.io](https://zokalyx.github.io/).
 
 When it comes to coding, I'm really interested in:
 - Discord bots
@@ -12,3 +12,5 @@ As of writing this, my favorite languages are:
 - Rust
 - Zig
 - Haskell
+
+Although the one I've used the most is likely JavaScript...
